@@ -173,7 +173,7 @@ function spawnClouds() {
   cloud.y=Math.round(random(60, 110));  
   cloud.scale=0.5;
   cloud.velocityX=-4;   
-  cloud.lifetime=300;  
+  cloud.lifetime=350;  
     
   //making the trex's depth more than the clouds  
   cloud.depth=trex.depth;
